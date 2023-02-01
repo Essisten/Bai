@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5NhMN39wfK6nnDTC9EjDV5A+jnK+XK42cpP+TsMnJ0ZmtFpevZ2nujn9z+tI7YJuh44VBxDkqlxWAHnXNXJvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\МОиБД\\Documents\\19П-1\\Bai\\Bai\\Bai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\МОиБД\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\МОиБД\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\МОиБД\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\МОиБД\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

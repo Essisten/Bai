@@ -1,0 +1,46 @@
+[
+  {
+    "MainVacation": 23.98,
+    "ExtraVacation": 206.52,
+    "Group": 1,
+    "AccessLevel": 2,
+    "ID": 5538431641,
+    "UserName": "Создатель",
+    "AppearanceDate": "2022-11-01T00:00:00",
+    "LastDaysSync": "2022-11-03T00:00:00",
+    "StartVacation": "2022-11-03T00:00:00"
+  },
+  {
+    "MainVacation": 28,
+    "ExtraVacation": 14,
+    "Group": 1,
+    "AccessLevel": 1,
+    "ID": 998412870,
+    "UserName": "Стрельцова Юлия Юрьевна",
+    "AppearanceDate": "2019-12-23T00:00:00",
+    "LastDaysSync": "2019-12-23T00:00:00",
+    "StartVacation": "0001-01-01T00:00:00"
+  },
+  {
+    "MainVacation": 28,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 2,
+    "ID": 63274172,
+    "UserName": "Давлетбаев Тимур Илдарович",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-09-01T00:00:00",
+    "StartVacation": "0001-01-01T00:00:00"
+  },
+  {
+    "MainVacation": 28,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 553843164,
+    "UserName": "Не существующий сотрудник(для теста возможностей бота)",
+    "AppearanceDate": "2000-01-13T00:00:00",
+    "LastDaysSync": "2000-01-13T00:00:00",
+    "StartVacation": "0001-01-01T00:00:00"
+  }
+]

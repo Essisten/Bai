@@ -1,0 +1,123 @@
+[
+  {
+    "MainVacation": 100,
+    "ExtraVacation": 130.5,
+    "Group": 2,
+    "AccessLevel": 2,
+    "ID": 428775616,
+    "UserName": "Руслан",
+    "AppearanceDate": "2022-11-01T00:00:00",
+    "LastDaysSync": "2022-11-25T00:00:00",
+    "StartVacation": "2022-11-25T00:00:00"
+  },
+  {
+    "MainVacation": 289,
+    "ExtraVacation": 3.5,
+    "Group": 2,
+    "AccessLevel": 2,
+    "ID": 5538431641,
+    "UserName": "Виктор",
+    "AppearanceDate": "2022-11-01T00:00:00",
+    "LastDaysSync": "2022-11-26T00:00:00",
+    "StartVacation": "2022-11-18T00:00:00"
+  },
+  {
+    "MainVacation": 15.67,
+    "ExtraVacation": 0,
+    "Group": 1,
+    "AccessLevel": 2,
+    "ID": 998412870,
+    "UserName": "Стрельцова Юлия Юрьевна",
+    "AppearanceDate": "2019-12-23T00:00:00",
+    "LastDaysSync": "2022-11-18T00:00:00",
+    "StartVacation": "2022-11-18T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 2,
+    "ID": 363274172,
+    "UserName": "Давлетбаев Тимур Илдарович",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-11-01T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 664687513,
+    "UserName": "Ямалтдинов Айдар Тимирович ",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-11-01T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 271413828,
+    "UserName": "Шарафутдинов Арсен Рустемович ",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-11-01T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 1,
+    "AccessLevel": 1,
+    "ID": 681804683,
+    "UserName": "Факеева Светлана Александровна ",
+    "AppearanceDate": "2021-11-08T00:00:00",
+    "LastDaysSync": "2022-11-08T00:00:00",
+    "StartVacation": "2021-11-08T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 939224965,
+    "UserName": "Сагидуллин Руслан Хажинурович ",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-11-01T00:00:00"
+  },
+  {
+    "MainVacation": 15.34,
+    "ExtraVacation": 0,
+    "Group": 1,
+    "AccessLevel": 1,
+    "ID": 391812199,
+    "UserName": "Файзуллина Светлана Викторовна ",
+    "AppearanceDate": "2019-12-23T00:00:00",
+    "LastDaysSync": "2022-11-17T00:00:00",
+    "StartVacation": "2019-12-23T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 511133881,
+    "UserName": "Недопёкин Денис Викторович ",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-09-01T00:00:00"
+  },
+  {
+    "MainVacation": 4.67,
+    "ExtraVacation": 0,
+    "Group": 2,
+    "AccessLevel": 1,
+    "ID": 467213577,
+    "UserName": "Павлов Анатолий Михайлович ",
+    "AppearanceDate": "2022-09-01T00:00:00",
+    "LastDaysSync": "2022-11-01T00:00:00",
+    "StartVacation": "2022-11-01T00:00:00"
+  }
+]
